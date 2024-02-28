@@ -1,0 +1,23 @@
+{
+    "excel_columns": {
+        "name": "字段名",
+        "description": "中文解释",
+        "type": "类型",
+        "required": "是否必填",
+        "remarks": "备注"
+    },
+    "data_type_mapping": {
+        "String16": "string",
+        "String32": "string",
+        "String64": "string",
+        "String128": "string",
+        "String256": "string",
+        "Int": "int",
+        "uint8" : "int",
+        "Uint64": "int",
+        "Float": "float",
+        "Double": "double",
+        "Bool": "bool",
+        "Date": "DateTime"
+    }
+}
